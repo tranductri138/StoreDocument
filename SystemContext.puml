@@ -1,0 +1,10 @@
+@startuml
+'https://plantuml.com/class-diagram
+!include https://raw.githubusercontent.com/plantuml-stdlib/C4-PlantUML/master/C4_Container.puml
+
+
+title System context Store Of Me very unique
+
+System(storeFE, "Store FrontEnd")
+
+@enduml
